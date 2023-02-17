@@ -1,0 +1,22 @@
+{
+  "name": "@kpopfan4life/carbon-10",
+  "version": "1.0.0",
+  "description": "Carbon 10 theme",
+  "bugs": "https://github.com/SamuelDW/carbon-10/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SamuelDW/carbon-10"
+  },
+  "main": "index.scss",
+  "keywords": [
+    "carbon-10",
+    "carbon",
+    "css-variables",
+    "small",
+    "scss",
+    "theme",
+    "light theme"
+  ],
+  "author": "Samuel Durrant-Walker",
+  "license": "ISC"
+}
